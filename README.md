@@ -1,2 +1,2 @@
-# spirograph-wdt-visualization
+# hypotrochoid-wdt-visualization
 Visualizing needle trajectories for the spirograph wdt tool
